@@ -1,0 +1,148 @@
+@font-face{
+    font-family:  'Quantico', sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Quantico&display=swap");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Quantico';
+}
+
+/* ESTILOS HEADER */
+header p{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
+
+.btn-outline-success{
+    color: black;
+    border:1px solid black;
+}
+
+.btn-outline-success:hover{
+    background-color: #8ccbf9;
+    border: 1px solid #8ccbf9;
+}
+
+/* ESTILOS FOOTER */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    flex-direction: column;
+}
+
+
+/*ORDENAR PRODUCTOS*/
+.ordenarProductos{
+    display: flex;
+    float: right;
+    margin: 10px;
+    
+}
+
+.ordenarPor{
+    color: white;
+}
+
+#ordenarPor{
+    border-radius: 8px;
+    background-color: whitesmoke;
+}
+/*ESTILOS BODY*/
+
+body {
+    background-color: #213555;
+    margin-bottom: 60px;  
+}
+
+/* ESTILOS TARJETAS */
+#contenedorProductos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.tarjeta {
+    padding-top: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 2px;
+    background-color: white;
+    font-size: 14px;
+}
+
+.imgCamiseta {
+    width: 130px;
+    height: 150px;
+}
+
+.nombreEquipo{
+    font-size: 18px;
+}
+
+/*ESTILOS CARRITO*/
+#carrito {
+    padding: 20px;
+    margin: 10px;
+    background-color: whitesmoke;
+    min-height: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.oculta {
+    display: none !important;
+}
+
+/*ESTILOS BOTONES*/
+.contenedorBotones {
+    width: 100%;
+    height: 30px; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: stretch; 
+    justify-content: space-between;
+}
+
+#verOcultar {
+    border: 1px solid #213555;
+    background-color: rgb(129, 212, 245);
+    border-radius: 11px;
+}
+
+.nav-link:hover,
+#verOcultar:hover {
+    color: rgba(236, 236, 236, 0.856);
+}
+
+
+.BotonACarrito {
+    width: 80%;
+    background-color: #e6e6e6;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.finalizarCompra {
+    background-color:rgba(61, 224, 170, 0.947);
+}
+

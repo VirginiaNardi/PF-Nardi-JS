@@ -1,0 +1,354 @@
+[
+    {
+        "equipo": "Argentinos",
+        "categoria": "primera",
+        "precio": 29000,
+        "id": 1,
+        "stock": 10,
+        "img": "argentinos.jpg"
+    },
+    {
+        "equipo": "Arsenal",
+        "categoria": "primera",
+        "precio": 19200,
+        "id": 2,
+        "stock": 10,
+        "img": "arsenal.jpg"
+    },
+    {
+        "equipo": "Atletico Tucuman",
+        "categoria": "primera",
+        "precio": 29000,
+        "id": 3,
+        "stock": 10,
+        "img": "at-tucuman.png"
+    },
+    {
+        "equipo": "Banfield",
+        "categoria": "primera",
+        "precio": 22000,
+        "id": 4,
+        "stock": 10,
+        "img": "banfield.png"
+    },
+    {
+        "equipo": "Barracas Central",
+        "categoria": "primera",
+        "precio": 20400,
+        "id": 5,
+        "stock": 10,
+        "img": "barracas.png"
+    },
+    {
+        "equipo": "Belgrano",
+        "categoria": "primera",
+        "precio": 29000,
+        "id": 6,
+        "stock": 10,
+        "img": "belgrano.png"
+    },
+    {
+        "equipo": "Boca",
+        "categoria": "primera",
+        "precio": 35000,
+        "id": 7,
+        "stock": 10,
+        "img": "boca.png"
+    },
+    {
+        "equipo": "Central Cordoba",
+        "categoria": "primera",
+        "precio": 21800,
+        "id": 8,
+        "stock": 10,
+        "img": "central-cba.jpg"
+    },
+    {
+        "equipo": "Colon",
+        "categoria": "primera",
+        "precio": 22000,
+        "id": 9,
+        "stock": 10,
+        "img": "colon.jpg"
+    },
+    {
+        "equipo": "Defensa y Justicia",
+        "categoria": "primera",
+        "precio": 24000,
+        "id": 10,
+        "stock": 10,
+        "img": "defensa.jpg"
+    },
+    {
+        "equipo": "Estudiantes",
+        "categoria": "primera",
+        "precio": 28200,
+        "id": 11,
+        "stock": 10,
+        "img": "estudiantes.jpg"
+    },
+    {
+        "equipo": "Gimnasia",
+        "categoria": "primera",
+        "precio": 31000,
+        "id": 12,
+        "stock": 10,
+        "img": "gimnasia.jpg"
+    },
+    {
+        "equipo": "Godoy Cruz",
+        "categoria": "primera",
+        "precio": 23500,
+        "id": 13,
+        "stock": 10,
+        "img": "godoyCruz.jpg"
+    },
+    {
+        "equipo": "Huracan",
+        "categoria": "primera",
+        "precio": 26000,
+        "id": 14,
+        "stock": 10,
+        "img": "huracan.jpg"
+    },
+    {
+        "equipo": "Independiente",
+        "categoria": "primera",
+        "precio": 27000,
+        "id": 15,
+        "stock": 10,
+        "img": "independiente.png"
+    },
+    {
+        "equipo": "Instituto",
+        "categoria": "primera",
+        "precio": 23400,
+        "id": 16,
+        "stock": 10,
+        "img": "instituto.png"
+    },
+    {
+        "equipo": "Lanus",
+        "categoria": "primera",
+        "precio": 29500,
+        "id": 17,
+        "stock": 10,
+        "img": "lanus.jpg"
+    },
+    {
+        "equipo": "Newells",
+        "categoria": "primera",
+        "precio": 31000,
+        "id": 18,
+        "stock": 10,
+        "img": "newells.jpg"
+    },
+    {
+        "equipo": "Platense",
+        "categoria": "primera",
+        "precio": 27200,
+        "id": 19,
+        "stock": 10,
+        "img": "platense.png"
+    },
+    {
+        "equipo": "Racing",
+        "categoria": "primera",
+        "precio": 30000,
+        "id": 20,
+        "stock": 10,
+        "img": "racing.jpg"
+    },
+    {
+        "equipo": "River",
+        "categoria": "primera",
+        "precio": 35000,
+        "id": 21,
+        "stock": 10,
+        "img": "river.jpg"
+    },
+    {
+        "equipo": "Rosario Central",
+        "categoria": "primera",
+        "precio": 29000,
+        "id": 22,
+        "stock": 10,
+        "img": "central.jpg"
+    },
+    {
+        "equipo": "San Lorenzo",
+        "categoria": "primera",
+        "precio": 33000,
+        "id": 23,
+        "stock": 10,
+        "img": "sanLorenzo.png"
+    },
+    {
+        "equipo": "Sarmiento",
+        "categoria": "primera",
+        "precio": 18000,
+        "id": 24,
+        "stock": 10,
+        "img": "sarmiento.jpg"
+    },
+    {
+        "equipo": "Talleres",
+        "categoria": "primera",
+        "precio": 31000,
+        "id": 25,
+        "stock": 10,
+        "img": "talleres.jpg"
+    },
+    {
+        "equipo": "Tigre",
+        "categoria": "primera",
+        "precio": 28000,
+        "id": 26,
+        "stock": 10,
+        "img": "tigre.jpg"
+    },
+    {
+        "equipo": "Union",
+        "categoria": "primera",
+        "precio": 22000,
+        "id": 27,
+        "stock": 10,
+        "img": "union.jpg"
+    },
+    {
+        "equipo": "Velez",
+        "categoria": "primera",
+        "precio": 31000,
+        "id": 28,
+        "stock": 10,
+        "img": "velez.jpg"
+    },
+    {
+        "equipo": "Aldosivi",
+        "categoria": "nacional",
+        "precio": 18600,
+        "id": 29,
+        "stock": 10,
+        "img": "aldosivi.jpg"
+    },
+    {
+        "equipo": "All Boys",
+        "categoria": "nacional",
+        "precio": 19000,
+        "id": 30,
+        "stock": 10,
+        "img": "allBoys.png"
+    },
+    {
+        "equipo": "Almagro",
+        "categoria": "nacional",
+        "precio": 23000,
+        "id": 31,
+        "stock": 10,
+        "img": "almagro.jpg"
+    },
+    {
+        "equipo": "Almirante Brown",
+        "categoria": "nacional",
+        "precio": 19000,
+        "id": 32,
+        "stock": 10,
+        "img": "almirante.jpg"
+    },
+    {
+        "equipo": "Atlanta",
+        "categoria": "nacional",
+        "precio": 18000,
+        "id": 33,
+        "stock": 10,
+        "img": "atlanta.png"
+    },
+    {
+        "equipo": "Chacarita",
+        "categoria": "nacional",
+        "precio": 22000,
+        "id": 34,
+        "stock": 10,
+        "img": "chacarita.png"
+    },
+    {
+        "equipo": "Chaco For Ever",
+        "categoria": "nacional",
+        "precio": 17000,
+        "id": 35,
+        "stock": 10,
+        "img": "chaco.jpg"
+    },
+    {
+        "equipo": "Ferro",
+        "categoria": "nacional",
+        "precio": 22000,
+        "id": 36,
+        "stock": 10,
+        "img": "ferro.jpg"
+    },
+    {
+        "equipo": "Flandria",
+        "categoria": "nacional",
+        "precio": 16000,
+        "id": 37,
+        "stock": 10,
+        "img": "flandria.png"
+    },
+    {
+        "equipo": "Gimnasia de Jujuy",
+        "categoria": "nacional",
+        "precio": 18000,
+        "id": 38,
+        "stock": 10,
+        "img": "gimnasiaJujuy.jpg"
+    },
+    {
+        "equipo": "Ind. Rivadavia",
+        "categoria": "nacional",
+        "precio": 19000,
+        "id": 39,
+        "stock": 10,
+        "img": "independienteRiv.png"
+    },
+    {
+        "equipo": "Nueva Chicago",
+        "categoria": "nacional",
+        "precio": 23000,
+        "id": 40,
+        "stock": 10,
+        "img": "chicago.png"
+    },
+    {
+        "equipo": "Patronato",
+        "categoria": "nacional",
+        "precio": 25000,
+        "id": 41,
+        "stock": 10,
+        "img": "patronato.jpg"
+    },
+    {
+        "equipo": "Quilmes",
+        "categoria": "nacional",
+        "precio": 22000,
+        "id": 42,
+        "stock": 10,
+        "img": "quilmes.jpg"
+    },
+    {
+        "equipo": "San Telmo",
+        "categoria": "nacional",
+        "precio": 16000,
+        "id": 43,
+        "stock": 10,
+        "img": "sanTelmo.png"
+    },
+    {
+        "equipo": "Temperley",
+        "categoria": "nacional",
+        "precio": 24000,
+        "id": 44,
+        "stock": 10,
+        "img": "temperley.png"
+    }
+]
